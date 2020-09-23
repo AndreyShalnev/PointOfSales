@@ -1,0 +1,2 @@
+# PointOfSales
+My test project
